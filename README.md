@@ -128,33 +128,6 @@ Exploring Artificial Intelligence and experimenting with practical AI-based appl
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-
-## 💼 Featured Projects
-
-### 📊 Data Analytics Projects
-
-**Data analysis and visualization projects using Python, Excel, and other analytical tools.**
-
-🔗 [View GitHub Projects](https://github.com/programmer-moumita)
-
----
-
-### 🤖 AI & Python Projects
-
-**Exploring AI concepts and building practical Python-based applications.**
-
-🔗 [Explore My GitHub](https://github.com/programmer-moumita)
-
----
-
-### 📈 Power BI & Excel
-
-**Developing dashboards, reports, and analytical solutions using Power BI and Advanced Excel.**
-
-🔗 [View My Profile](https://github.com/programmer-moumita)
-
----
 
 <!-- ===================== LEARNING ===================== -->
 
@@ -192,16 +165,6 @@ Exploring Artificial Intelligence and experimenting with practical AI-based appl
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-moumita&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-<!-- ===================== CONTRIBUTION ===================== -->
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
