@@ -151,21 +151,14 @@ Exploring Artificial Intelligence and experimenting with practical AI-based appl
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Analytics
+## 🎯 Current Goals
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=programmer-moumita&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=programmer-moumita&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-moumita&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+- 📊 Build a strong foundation in Data Analytics
+- 🐍 Improve my Python skills
+- 📈 Master Advanced Excel & Power BI
+- 🤖 Explore AI & Machine Learning
+- 💻 Build real-world projects
+- 🚀 Grow my GitHub portfolio
 
 ---
 
