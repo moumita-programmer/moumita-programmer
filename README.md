@@ -139,6 +139,8 @@ Exploring Artificial Intelligence and experimenting with practical AI-based appl
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -153,12 +155,16 @@ Exploring Artificial Intelligence and experimenting with practical AI-based appl
 
 ## 🎯 Current Goals
 
-- 📊 Build a strong foundation in Data Analytics
-- 🐍 Improve my Python skills
-- 📈 Master Advanced Excel & Power BI
-- 🤖 Explore AI & Machine Learning
-- 💻 Build real-world projects
-- 🚀 Grow my GitHub portfolio
+| Focus Area | Goal |
+|---|---|
+| 📊 Data Analytics | Build a strong foundation in data analysis |
+| 🐍 Python | Improve programming and data-analysis skills |
+| 🗄️ SQL | Learn SQL for data querying and analysis |
+| 📈 Power BI | Learn dashboarding and data visualization |
+| 📊 Advanced Excel | Develop advanced data-analysis skills |
+| 🤖 AI & ML | Explore Artificial Intelligence and Machine Learning |
+| 💻 Projects | Build practical real-world projects |
+| 🚀 GitHub | Build and grow my technical portfolio |
 
 ---
 
