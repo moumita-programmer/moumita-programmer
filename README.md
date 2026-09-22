@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0077FF&height=200&section=header&text=Arushi&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB3,100:0077FF&height=200&section=header&text=Moumita&fontSize=40&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋, I'm Arushi</h1>
+<h1 align="center">Hi 👋, I'm Moumita</h1>
 
 <p align="center">
 📊 Data Analytics | 🐍 Python | 🤖 AI & Programming | 📈 Power BI
